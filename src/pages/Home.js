@@ -3,7 +3,7 @@ function Home() {
     return (
       <>
       <Navbar1/>
-      <h1>Home page</h1>
+      <h1> wlc Home page</h1>
       </>
     );
   }
